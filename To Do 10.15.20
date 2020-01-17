@@ -1,0 +1,23 @@
+1. Election
+
+2. Phil's Demo
+
+3. Setup Kali in VirtualBox
+
+    -	Visit https://github.com/chaffeycybersecclub/VirtualBox
+    -	Open  “Install Kali on VB”
+    *Creating a github account Is recommended.
+    
+4. 4.	Basic  Command Line Commands
+OBJECTIVE: To get a basic understanding of the command line interface, and learn to use the pwd, ls, cd and more commands.
+
+
+-	Visit this website and complete the following: http://bit.ly/2PUQWOu
+o	Introduction
+o	Ex 1: the setup (Windows or Mac)
+o	Ex 2: “pwd”
+o	Ex 6:” ls”
+o	Ex 5: “cd”
+o	Ex 12: “more”
+-	Once complete, test what you learned! Create a new .txt file with random text and save it to your desktop. Using the command line, go to the desktop directory and open your text file.
+
