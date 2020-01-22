@@ -1,12 +1,14 @@
+******** TO DO LIST 1.15.20 **********
+
 1. Election
 
-2. Phil's Demo
+2. Phil's Demo: Dictionary Attack using Nmap and Hydra
 
 3. Setup Kali in VirtualBox
 
     -	Visit https://github.com/chaffeycybersecclub/VirtualBox
     -	Open  “Install Kali on VB”
-    *Creating a github account Is recommended.
+    *Creating a github account is recommended.
     
 4. 4.	Basic  Command Line Commands
 OBJECTIVE: To get a basic understanding of the command line interface, and learn to use the pwd, ls, cd and more commands.
